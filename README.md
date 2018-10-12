@@ -6,6 +6,8 @@ Placez-vous dans le même répertore que le fichier docker-compose.yml et démar
 Pour vérifiez que les conteneurs sont bien lancés:
 <br>```docker ps```</br>
 
+Attention, les conteneurs peuvent mettre plusieurs minutes avant d'être entièrement fonctionnels !
+
 Connectez-vous à localhost:10080 pour accéder à l'interface de GitLab.
 Créez un nouveau mot de passe pour l'utilisateur root puis connectez-vous:
 <br>identifiant: root</br>
