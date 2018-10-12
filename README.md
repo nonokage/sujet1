@@ -7,6 +7,7 @@ Pour vérifiez que les conteneurs sont bien lancés:
 <br>```docker ps```</br>
 
 Connectez-vous à localhost:10080 pour accéder à l'interface de GitLab.
+Créez un nouveau mot de passe pour l'utilisateur root puis connectez-vous:
 <br>identifiant: root</br>
 <br>mot de passe: test1234</br>
 
